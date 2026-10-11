@@ -1,0 +1,271 @@
+{
+  "deck": "Neuroethology_Lecture57_FA2026.pptx",
+  "inserts": [
+    {
+      "after": 11,
+      "label": "11a",
+      "video": "videos/09_Chimpanzee_tapping_task_Hattori2013_VideoS1.mp4",
+      "poster_t": 8,
+      "title": "Chimpanzees learned to tap alternating illuminated keys",
+      "paras": [
+        "Hattori and colleagues introduced an electric keyboard to three chimpanzees. Each animal learned to tap two keys, **C4** and **C5**, in alternation; the key to be tapped was illuminated, and each tap produced a sound and lit the other key.",
+        "Completing 30 alternating taps produced a chime and a food reward. The reward depended only on finishing the 30 taps, so the training task itself never required the taps to match any external rhythm.",
+        "In later test sessions an **isochronous distractor**, a sound repeating at equal intervals of 400, 500 or 600 ms, played during tapping. A random-interval sound and a no-sound condition served as comparisons."
+      ],
+      "caption": "Video: Hattori et al. (2013), Supplementary Video S1. Keyboard tapping task used for chimpanzee training.",
+      "cite": "Hattori et al. (2013)",
+      "notes": [
+        "The keyboard task gave each chimpanzee a self-paced tapping response that could later be compared with an external sound. The illuminated key guided which key to press, and the sound feedback marked each tap. The animal's own tapping rate was free to vary during training.",
+        "The reward contingency was deliberately indifferent to timing. A chimpanzee received the chime and food after 30 taps regardless of how its taps related to the distractor sound in test sessions. Any alignment with the distractor was therefore spontaneous rather than trained.",
+        "The distractor intervals of 400, 500 and 600 ms, along with random-interval and silent conditions, allowed the investigators to ask whether tap phase clustered relative to a regular sound more than relative to an irregular one.",
+        "The monkeys in the rhythm studies earlier in the deck were tested with recorded brain responses during listening. The chimpanzee task instead measured a motor output, the timing of keyboard taps, in the presence of a repeating sound."
+      ],
+      "notes_refs": "Hattori Y, Tomonaga M, Matsuzawa T (2013). Spontaneous synchronized tapping to an auditory rhythm in a chimpanzee. Scientific Reports 3: 1566. https://doi.org/10.1038/srep01566"
+    },
+    {
+      "after": 11,
+      "label": "11b",
+      "video": "videos/10_Chimpanzee_Ai_tapping_Hattori2013_VideoS2.mp4",
+      "poster_t": 8,
+      "title": "One chimpanzee aligned her taps with a 600 ms sound",
+      "paras": [
+        "One of the three chimpanzees, **Ai**, tapped in phase with the 600 ms distractor across 540 taps. Her tap phases clustered near the sound onsets, whereas taps recorded with random-interval sounds or with no sound did not show this clustering.",
+        "**Relative phase** expresses each tap's timing as a fraction of the interval between sounds. Ai's absolute relative phase was smaller with the 600 ms sound than with the random sound, so her taps fell closer to sound onsets when the sound was regular.",
+        "Ai sometimes slowed her own tapping to match the sound, even though slower tapping delayed her reward. The other two chimpanzees, and Ai at 400 and 500 ms, did not show significant alignment."
+      ],
+      "caption": "Video: Hattori et al. (2013), Supplementary Video S2. Ai tapping while an isochronous sound plays.",
+      "cite": "Hattori et al. (2013)",
+      "notes": [
+        "The central result rests on a single animal and a single tempo. Ai's taps were phase-matched to the 600 ms distractor over 540 taps, and the random-interval condition provided the control for chance alignment with sound events in general.",
+        "Relative phase runs from -0.5 to 0.5 of the interval. A value near zero means a tap occurred close to a sound onset. The smaller absolute values in the 600 ms condition separate alignment with a regular rhythm from simple responding after each sound.",
+        "Slowing down to stay with the sound carried a cost, since the reward came only after 30 taps. That cost makes the alignment more informative: the behavior was not explained by any reward advantage.",
+        "Ai's own tapping was more stable than that of the other two chimpanzees, and her intervals were generally close to 600 ms. Alignment appeared at the distractor interval nearest her own tapping rate and not at the faster intervals, which documents sensitivity to an auditory rhythm while showing how narrow the tempo range of that alignment was."
+      ],
+      "notes_refs": "Hattori Y, Tomonaga M, Matsuzawa T (2013). Spontaneous synchronized tapping to an auditory rhythm in a chimpanzee. Scientific Reports 3: 1566. https://doi.org/10.1038/srep01566"
+    },
+    {
+      "after": 12,
+      "label": "12a",
+      "video": "videos/02_Budgerigar_tapping_Hasegawa2011_VideoS1.mp4",
+      "poster_t": 10,
+      "title": "A budgerigar pecks the key in time with the metronome",
+      "paras": [
+        "The footage records a trained budgerigar inside the test cage. The key ahead of the bird lights up with each audiovisual metronome cue, and the bird pecks it during the accepted window around each cue.",
+        "Each sequence required six successive accepted pecks, and the birds completed 50 such sequences under each interval condition. Regular **interonset intervals**, the times between successive cue onsets, ranged from 450 to 1,800 ms.",
+        "A random condition mixed intervals of 900, 1,200 and 1,500 ms. Pecking under that condition estimated the bird's **reaction time** to a cue it could not predict, which served as the comparison for timing under regular cues."
+      ],
+      "caption": "Video: Hasegawa et al. (2011), Supplementary Video S1. Budgerigar key pecking during the tapping task.",
+      "cite": "Hasegawa et al. (2011)",
+      "notes": [
+        "All eight birds learned the tapping task, and the supplementary footage gives examples of trained performance. The light on the key and the sound occurred together during training, so each cue was audiovisual.",
+        "A six-peck sequence gave each trial enough successive responses to measure both the time between pecks and the time between each peck and its cue. Fifty sequences per condition produced the distributions analyzed in the deck's phase and asynchrony figures.",
+        "The random-interval condition matters for interpretation. A bird cannot anticipate a cue whose timing is unpredictable, so its delay under that condition estimates pure reaction. Pecks that arrive earlier than that delay under regular cues must use timing information from previous cues."
+      ],
+      "notes_refs": "Hasegawa A, Okanoya K, Hasegawa T, Seki Y (2011). Rhythmic synchronization tapping to an audio–visual metronome in budgerigars. Scientific Reports 1: 120. https://doi.org/10.1038/srep00120"
+    },
+    {
+      "after": 12,
+      "label": "12b",
+      "video": "videos/03_Budgerigar_tapping_Hasegawa2011_VideoS2.mp4",
+      "poster_t": 6,
+      "title": "A second budgerigar completes rewarded pecking sequences",
+      "paras": [
+        "A second trained bird performs the same task. Its pecks follow the illuminated key from cue to cue across a sequence of accepted responses.",
+        "The same contingency applied to every bird: a peck counted only when it fell inside the **accepted time window** around a cue. Pecks outside the window did not advance the sequence toward reward.",
+        "Different birds could satisfy the same window with different strategies, from reacting after each cue to pecking at or before its arrival. Measuring the asynchrony of each peck distinguished these strategies within otherwise successful performance."
+      ],
+      "caption": "Video: Hasegawa et al. (2011), Supplementary Video S2. A second example of trained key pecking.",
+      "cite": "Hasegawa et al. (2011)",
+      "notes": [
+        "Seeing two individuals perform the task makes the individual differences in the published data concrete. Each bird learned the same rule, yet the peck-phase distributions differed among birds.",
+        "The accepted time window extended before and after each cue. That breadth allowed early, on-time and late responses all to be rewarded, so success rate alone could not reveal how a bird was timing its pecks.",
+        "Asynchrony is negative for a peck that precedes cue onset and positive for one that follows it. Combining asynchrony with the reaction-time estimate from random cues separated anticipation from reaction."
+      ],
+      "notes_refs": "Hasegawa A, Okanoya K, Hasegawa T, Seki Y (2011). Rhythmic synchronization tapping to an audio–visual metronome in budgerigars. Scientific Reports 1: 120. https://doi.org/10.1038/srep00120"
+    },
+    {
+      "after": 15,
+      "label": "15a",
+      "video": "videos/04_Budgerigar_continuation_Hasegawa2011_VideoS3.mp4",
+      "poster_t": 8,
+      "title": "Budgerigars kept pecking at a previously trained tempo",
+      "paras": [
+        "When training moved to a new interval, birds sometimes continued pecking at almost the tempo of the previous or penultimate condition. The investigators observed this behavior eight times in 40 transitions between constant intervals, in five of the birds.",
+        "In one example, male B continued pecking near the earlier 600 ms interval under the new 1,800 ms condition. During the first 20 reinforced sequences, more of his response intervals fell between 450 and 750 ms than in the longer range.",
+        "That preference disappeared over the last 30 reinforced sequences. A retained tempo that fades with further training points to an internally maintained pecking rate that the bird gradually adjusted to the new cue interval."
+      ],
+      "caption": "Video: Hasegawa et al. (2011), Supplementary Video S3. Pecking continues at a previously trained tempo.",
+      "cite": "Hasegawa et al. (2011)",
+      "notes": [
+        "This continuation behavior was not the main measure of the study, but it adds direct evidence that the birds carried a tempo from one condition into the following one. A bird that only reacted to each cue would have no reason to keep a rate from an earlier session.",
+        "The example of male B gives specific numbers. In the 1,800 ms condition, two successive hits were required for reinforcement, and his response intervals clustered between 450 and 750 ms early in training before shifting away from that range.",
+        "The pattern fits the deck's earlier findings on interresponse intervals, where early intervals in slow sequences were shorter than the required interval and later ones lengthened toward it. Both observations describe a bird adjusting its own response period rather than holding one fixed rate."
+      ],
+      "notes_refs": "Hasegawa A, Okanoya K, Hasegawa T, Seki Y (2011). Rhythmic synchronization tapping to an audio–visual metronome in budgerigars. Scientific Reports 1: 120. https://doi.org/10.1038/srep00120"
+    },
+    {
+      "after": 15,
+      "label": "15b",
+      "video": "videos/05_Budgerigar_continuation_Hasegawa2011_VideoS4.mp4",
+      "poster_t": 5,
+      "title": "Retained tempo appeared across several interval transitions",
+      "paras": [
+        "A second example of the same behavior comes from a different bird and a different pair of interval conditions. The retained tempo was not limited to one individual or one transition.",
+        "**Interresponse interval**, the time between consecutive pecks, carries this evidence. A bird reacting only to each new cue would produce intervals set by the current metronome, whereas retained tempo produces intervals that match an earlier condition.",
+        "The birds' warble songs were also recorded. Of the intervals between song elements, 83.9% were under 600 ms, with a peak around 100 to 200 ms, a range that overlaps the fast cue intervals at which pecking was most regular."
+      ],
+      "caption": "Video: Hasegawa et al. (2011), Supplementary Video S4. A second example of retained pecking tempo.",
+      "cite": "Hasegawa et al. (2011)",
+      "notes": [
+        "The authors documented continuation in five birds across various interval combinations, and the two supplementary videos give separate examples. Repetition across individuals argues against a single idiosyncratic bird.",
+        "Interresponse intervals and asynchronies measure different things. Retained tempo is visible in the intervals between pecks even when those pecks are no longer well aligned to the current cues.",
+        "The warble-song comparison links the birds' vocal timing to their motor timing. Only 10.6% of song-element intervals exceeded 900 ms. The authors proposed that this vocal timing relates to the birds' precision at fast tempi, and that relationship remains a hypothesis rather than a tested mechanism."
+      ],
+      "notes_refs": "Hasegawa A, Okanoya K, Hasegawa T, Seki Y (2011). Rhythmic synchronization tapping to an audio–visual metronome in budgerigars. Scientific Reports 1: 120. https://doi.org/10.1038/srep00120"
+    },
+    {
+      "after": 16,
+      "label": "16a",
+      "video": "videos/01_Snowball_cockatoo_Patel2009_MovieS1.mp4",
+      "poster_t": 20,
+      "title": "Snowball adjusts his head bobbing to tempo-shifted music",
+      "paras": [
+        "The movie presents excerpts of Snowball dancing to tempo-modified versions of the same Backstreet Boys song. An on-screen label gives the playback tempo of each excerpt, including 106, 125 and 130 bpm.",
+        "The song's pitch was preserved while its tempo changed, so the music remained familiar while the interval between beats changed. Snowball's head-bob rate changed with the playback tempo across excerpts.",
+        "Not every head bob in these excerpts is synchronized. **Synchronized bouts** required at least twelve successive bobs with a stable phase relationship to the beat, and they occurred within longer stretches of dancing at other rates."
+      ],
+      "caption": "Video: Patel et al. (2009), Movie S1. Snowball dancing to the same song at several tempi.",
+      "cite": "Patel et al. (2009)",
+      "notes": [
+        "The footage pairs naturally with the phase and bout analyses in the slides that follow. The labels on screen correspond to the tempo manipulation: the original recording ran at 108.7 bpm, and tested versions spanned 97.8 to 130.4 bpm.",
+        "Matching tempo is the first requirement for synchronization. A bird that kept one preferred rate would coincide with only one version of the song, while Snowball changed his movement period across versions.",
+        "Matching phase is the second requirement. Within synchronized bouts the mean head-bob phase was about 3.9 degrees, close to the beat. Outside those bouts, his dancing continued but drifted relative to the music.",
+        "Observers in the room were instructed not to dance, and no particular movement was rewarded. Those controls reduce the possibility that Snowball followed visual rhythmic cues or a trained response."
+      ],
+      "notes_refs": "Patel AD, Iversen JR, Bregman MR, Schulz I (2009). Experimental Evidence for Synchronization to a Musical Beat in a Nonhuman Animal. Current Biology 19: 827-830. https://doi.org/10.1016/j.cub.2009.03.038"
+    },
+    {
+      "after": 20,
+      "label": "20a",
+      "video": "videos/12_Palm_cockatoo_drumming_Heinsohn2017_MovieS1.mp4",
+      "poster_t": 5,
+      "title": "Wild palm cockatoos drum a regular beat with a tool",
+      "paras": [
+        "Male **palm cockatoos** in northern Australia strike a hollow tree limb repeatedly with a modified stick or seedpod during display. The footage records a male drumming on a nest hollow with a seedpod.",
+        "Heinsohn and colleagues analyzed 131 drumming sequences from 18 males. The beats occurred at regular, nonrandom intervals, and the longest sequences were highly regular and predictable.",
+        "Individual males differed in the distribution of their intertap intervals, indicating individual drumming styles. Drumming occurred mostly with a female present, as part of courtship display."
+      ],
+      "caption": "Video: Heinsohn et al. (2017), Movie S1. A male palm cockatoo drumming on a nest hollow with a seedpod.",
+      "cite": "Heinsohn et al. (2017)",
+      "notes": [
+        "Palm cockatoos manufacture their drumming tools and use them only to make sound. Tool manufacture outside foraging is rare among nonhuman animals, which makes this display unusual.",
+        "Regularity here means that the intervals between taps were consistent within a sequence. The authors used autocorrelation, a measure of how well a sequence predicts itself at later lags, to show that long sequences were predictable in the way a steady beat is.",
+        "Producing a regular beat is a different capacity from synchronizing to one. The parrot studies in the deck measure alignment with music or a metronome, while palm cockatoo drumming is a self-generated rhythm without an external pulse to follow.",
+        "Palm cockatoos are parrots, and parrots are vocal learners. Their drumming extends the parrot evidence from following a beat to generating one."
+      ],
+      "notes_refs": "Heinsohn R, Zdenek CN, Cunningham RB, Endler JA, Langmore NE (2017). Tool-assisted rhythmic drumming in palm cockatoos shares key elements of human instrumental music. Science Advances 3: e1602399. https://doi.org/10.1126/sciadv.1602399"
+    },
+    {
+      "after": 21,
+      "label": "21a",
+      "video": "videos/11_Chimpanzee_swaying_Hattori2020_MovieS1.mp4",
+      "poster_t": 3,
+      "title": "Sound playback induced rhythmic swaying in chimpanzees",
+      "paras": [
+        "Hattori and Tomonaga played a repeating piano rhythm to chimpanzees at six tempi from 75 to 188 bpm. The chimpanzees were never rewarded for moving to a beat, and their behavior was video recorded during two-minute trials.",
+        "The sound induced **rhythmic swaying**, along with hand clapping, foot tapping and other rhythmic movements. Males responded more than females. In a bipedal posture, one male's vertical movement period was positively correlated with beat tempo.",
+        "A random rhythm induced as much rhythmic movement as the regular beat. Chimpanzees are not vocal mimics, and their movement occurred without the tight alignment to the beat measured in parrots."
+      ],
+      "caption": "Video: Hattori & Tomonaga (2020), Movie S1. Rhythmic swaying in a bipedal posture during sound playback.",
+      "cite": "Hattori & Tomonaga (2020)",
+      "notes": [
+        "The stimulus was a two-measure rock accompaniment pattern built from piano sounds at eight equally spaced positions. A piano timbre was used because a novel timbre had distressed the chimpanzees in a pilot study.",
+        "Rhythmic movement in response to sound is not the same as synchronization. The chimpanzees moved rhythmically, and in the bipedal posture the movement period rose with beat tempo, but the same response appeared with an irregular rhythm.",
+        "The sex difference parallels field reports of male chimpanzee rhythmic displays at the onset of rain. The authors interpreted the swaying as a possible biological foundation for dance in the common ancestor of humans and chimpanzees.",
+        "Placed beside the vocal-learning hypothesis, the chimpanzee data separate two questions. A non-mimic can move rhythmically when it hears sound, while precise, tempo-flexible alignment with a beat is the property the hypothesis attributes to vocal mimics."
+      ],
+      "notes_refs": "Hattori Y, Tomonaga M (2020). Rhythmic swaying induced by sound in chimpanzees (Pan troglodytes). Proceedings of the National Academy of Sciences 117: 936-942. https://doi.org/10.1073/pnas.1910318116"
+    },
+    {
+      "after": 21,
+      "label": "21b",
+      "video": "videos/00_Ronan_sea_lion_keeps_a_beat_UCSC.mp4",
+      "poster_t": 40,
+      "title": "Ronan, a sea lion, keeps the beat without vocal mimicry",
+      "paras": [
+        "**Ronan**, a California sea lion, was trained to move her head in time with a simple repeating sound similar to a metronome. Sea lions are not vocal mimics.",
+        "Without further training, Ronan found and kept the beat in more complex stimuli, including music. She was the first non-human mammal shown to keep a beat; outside humans, the ability had previously been seen only in parrots and related birds.",
+        "The vocal-learning hypothesis treated vocal mimicry as a necessary precondition for this ability. Ronan's performance challenges that requirement and suggests rhythmic ability may be more widespread among animals than previously thought."
+      ],
+      "caption": "Video: University of California, Santa Cruz. Ronan the sea lion keeping the beat (Cook et al., 2013).",
+      "cite": "Cook et al. (2013)",
+      "notes": [
+        "Ronan's training began with a simple repeating sound. The test of interest was transfer: whether the learned head movement would follow the beat of music she had not been trained on, and it did.",
+        "The comparison with the video survey is direct. That survey found suggestive evidence of entrainment only among vocal mimics, which motivated the hypothesis that vocal learning circuitry supports beat keeping. A sea lion that keeps a beat is a counterexample to the strong form of that claim.",
+        "Ronan's beat keeping was trained, whereas Snowball's dancing was spontaneous. The sea-lion slides that follow measure how precisely she aligned with novel tempi and how she corrected her timing after phase and tempo perturbations."
+      ],
+      "notes_refs": "Cook P, Rouse A, Wilson M, Reichmuth C (2013). A California sea lion (Zalophus californianus) can keep the beat: Motor entrainment to rhythmic auditory stimuli in a non vocal mimic. Journal of Comparative Psychology 127: 412-427. https://doi.org/10.1037/a0032345"
+    },
+    {
+      "after": 30,
+      "label": "30a",
+      "video": "videos/06_Rats_music_Ito2022_MovieS1.mp4",
+      "poster_t": 6,
+      "title": "Rats make small head movements during music playback",
+      "paras": [
+        "The footage records rats during music playback. Their head movements are small, and the slow-motion playback in the second half makes them easier to follow; the slowing also lowers the music's pitch.",
+        "The rats were neither trained to move to music nor rewarded for doing so. A head-mounted accelerometer converted these brief, easily overlooked movements into a continuous signal that could be compared with beat times.",
+        "**Jerk**, the rate of change of acceleration, captured beat-linked movement better than acceleration itself. Rapid changes in movement, rather than overall movement size, marked the beat in the rat recordings."
+      ],
+      "caption": "Video: Ito et al. (2022), Movie S1. Rat movements during music presentation, with slow-motion playback.",
+      "cite": "Ito et al. (2022)",
+      "notes": [
+        "The video gives a sense of scale. Rat head movements during music are subtle, which is why the investigators relied on a wireless accelerometer rather than visual scoring.",
+        "The pitch change in the slow-motion portion comes from slowing the video, not from the experiment. The experimental tempo conditions were 99, 132, 264 and 528 bpm, and the strongest group alignment occurred near the original 132 bpm.",
+        "Jerk emphasizes abrupt changes in motion. A small, sharp head movement near a beat produces a large jerk value even when the overall displacement is tiny, which made jerk the more sensitive measure of beat-linked movement."
+      ],
+      "notes_refs": "Ito Y, Shiramatsu TI, Ishida N, Oshima K, Magami K, Takahashi H (2022). Spontaneous beat synchronization in rats: Neural dynamics and motor entrainment. Science Advances 8: eabo7019. https://doi.org/10.1126/sciadv.abo7019"
+    },
+    {
+      "after": 32,
+      "label": "32a",
+      "video": "videos/07_Rat_bipedal_beat_Ito2022_MovieS2.mp4",
+      "poster_t": 20,
+      "title": "Beat-synchronous rat movement is clearer in a bipedal stance",
+      "paras": [
+        "Head movements synchronized to beats in some trials, and the synchronization was most visible when a rat stood on its hind legs. The footage presents a rat in a **bipedal stance** during three pieces of music.",
+        "The excerpts are Mozart's sonata K.448, Lady Gaga's \"Born This Way\" and Queen's \"Another One Bites the Dust\". Upper and lower peaks of nose displacement were extracted from the video and plotted against the beat.",
+        "Peak timing clustered at a consistent phase relative to the beat for each piece. For the Queen excerpt the phase distribution was bimodal, so the analysis doubled the phase angle before testing for alignment."
+      ],
+      "caption": "Video: Ito et al. (2022), Movie S2. Beat-synchronous movement in a bipedal stance across three pieces of music.",
+      "cite": "Ito et al. (2022)",
+      "notes": [
+        "Standing upright frees the head and upper body to move, which makes rhythmic bobbing easier to see. The same point appeared in chimpanzees, whose tempo-linked swaying was found in the bipedal posture.",
+        "Nose displacement was measured relative to the mean position of the eyes and ears. Using the face itself as the reference removed whole-body movement and left the head motion.",
+        "Including popular songs alongside Mozart extended the observation beyond one piece of music. Consistent peak phases across different songs argue that the movement followed beat timing rather than a feature unique to one recording.",
+        "A bimodal distribution has two clusters. Doubling the phase angles merges two opposite clusters into one, so a rhythm aligned to both the beat and the half-beat can still be detected."
+      ],
+      "notes_refs": "Ito Y, Shiramatsu TI, Ishida N, Oshima K, Magami K, Takahashi H (2022). Spontaneous beat synchronization in rats: Neural dynamics and motor entrainment. Science Advances 8: eabo7019. https://doi.org/10.1126/sciadv.abo7019"
+    },
+    {
+      "after": 33,
+      "label": "33a",
+      "video": "videos/08_Human_head_movement_Ito2022_MovieS3.mp4",
+      "poster_t": 30,
+      "title": "Human listeners move their heads to the same Mozart excerpt",
+      "paras": [
+        "Human participants heard Mozart's K.448 at its original tempo while a marker on the head tracked their movement. The footage presents head displacement for three participants.",
+        "Participants differed in how their heads moved relative to the beat. The upper and lower peaks of displacement fell near opposite phases in one participant and near the same phase in another, so individuals expressed beat timing differently.",
+        "Head acceleration in humans was comparable to that in rats, at 10 to 15 m/s², while human head jerk was about ten times smaller. The human recordings provided the comparison for the rat measurements at the same tempi."
+      ],
+      "caption": "Video: Ito et al. (2022), Movie S3. Human head movement during Mozart K.448 at the original tempo.",
+      "cite": "Ito et al. (2022)",
+      "notes": [
+        "The human data used the same stimuli as the rat data, so differences between species cannot be attributed to different music. All twelve human participants showed significant beat contrast at the original tempo, compared with five of ten rats.",
+        "Individual movement styles matter for analysis. Pooling participants whose peaks fall at opposite phases would blur alignment that is clear within each person.",
+        "Comparable acceleration but much smaller jerk means human head motion was smoother, while rat motion contained sharper changes. That difference in movement character sits alongside the shared preference for tempi near the original 132 bpm and the later beat phase of rat movement."
+      ],
+      "notes_refs": "Ito Y, Shiramatsu TI, Ishida N, Oshima K, Magami K, Takahashi H (2022). Spontaneous beat synchronization in rats: Neural dynamics and motor entrainment. Science Advances 8: eabo7019. https://doi.org/10.1126/sciadv.abo7019"
+    }
+  ]
+}
